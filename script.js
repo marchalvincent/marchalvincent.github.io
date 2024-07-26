@@ -69,7 +69,7 @@ function buildContent(property) {
 const properties = [
   {
     "name": "Altanta",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 33.777443,
@@ -87,7 +87,7 @@ const properties = [
   },
   {
     "name": "Banglador",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 12.990026,
@@ -96,7 +96,7 @@ const properties = [
   },
   {
     "name": "Barcelona",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 41.4105883,
@@ -105,7 +105,7 @@ const properties = [
   },
   {
     "name": "Beijing",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 39.91882,
@@ -123,7 +123,7 @@ const properties = [
   },
   {
     "name": "Brussels",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 50.8642464,
@@ -132,7 +132,7 @@ const properties = [
   },
   {
     "name": "Canberra",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": -35.3191738,
@@ -141,7 +141,7 @@ const properties = [
   },
   {
     "name": "Chicago",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 41.8823083,
@@ -159,7 +159,7 @@ const properties = [
   },
   {
     "name": "Dubai",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 25.03028418541971,
@@ -168,7 +168,7 @@ const properties = [
   },
   {
     "name": "Dublin",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 53.339466,
@@ -186,7 +186,7 @@ const properties = [
   },
   {
     "name": "Houston",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 29.7781976,
@@ -195,7 +195,7 @@ const properties = [
   },
   {
     "name": "Johannesburg",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": -26.014901,
@@ -204,7 +204,7 @@ const properties = [
   },
   {
     "name": "Kroonenberg",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 50.1749639,
@@ -213,7 +213,7 @@ const properties = [
   },
   {
     "name": "London",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 51.511467,
@@ -222,7 +222,7 @@ const properties = [
   },
   {
     "name": "Melbourn",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": -37.81545,
@@ -240,7 +240,7 @@ const properties = [
   },
   {
     "name": "Milan",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 45.4093225,
@@ -249,7 +249,7 @@ const properties = [
   },
   {
     "name": "Munich",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 48.117221,
@@ -258,7 +258,7 @@ const properties = [
   },
   {
     "name": "New York",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 40.7526701,
@@ -267,8 +267,8 @@ const properties = [
   },
   {
     "name": "Nantes",
-    "company": "Avanade",
-    "icon": "AVA.svg",
+    "company": "Accenture / Avanade",
+    "icon": "ACN_AVA.png",
     "position": {
       "lat": 47.24430533,
       "lng": -1.619175674
@@ -276,7 +276,7 @@ const properties = [
   },
   {
     "name": "Paris",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 48.8267477,
@@ -285,7 +285,7 @@ const properties = [
   },
   {
     "name": "Perth",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": -31.9562359,
@@ -294,7 +294,7 @@ const properties = [
   },
   {
     "name": "Rome",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 41.8095576,
@@ -303,7 +303,7 @@ const properties = [
   },
   {
     "name": "San Fancisco",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 37.7897854,
@@ -312,7 +312,7 @@ const properties = [
   },
   {
     "name": "Sao Paolo",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": -23.632307,
@@ -321,7 +321,7 @@ const properties = [
   },
   {
     "name": "Seattle",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 47.6062195,
@@ -339,7 +339,7 @@ const properties = [
   },
   {
     "name": "Singapore",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 1.294378,
@@ -357,7 +357,7 @@ const properties = [
   },
   {
     "name": "Sydney",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": -33.8646631,
@@ -384,7 +384,7 @@ const properties = [
   },
   {
     "name": "Toronto",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 43.645819,
@@ -402,7 +402,7 @@ const properties = [
   },
   {
     "name": "Turin",
-    "company": "Accenture/ Avanade",
+    "company": "Accenture / Avanade",
     "icon": "ACN_AVA.png",
     "position": {
       "lat": 45.0319243,
