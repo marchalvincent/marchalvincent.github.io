@@ -270,8 +270,8 @@ const properties = [
     "company": "Avanade",
     "icon": "AVA.svg",
     "position": {
-      "lat": 47.26804168,
-      "lng": -1.609261186
+      "lat": 47.24430533,
+      "lng": -1.619175674
     }
   },
   {
