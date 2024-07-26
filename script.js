@@ -177,8 +177,8 @@ const properties = [
   },
   {
     "name": "Essen",
-    "company": "",
-    "icon": "",
+    "company": "Accenture",
+    "icon": "ACN.svg",
     "position": {
       "lat": 51.4895402,
       "lng": 7.0371017
@@ -263,6 +263,15 @@ const properties = [
     "position": {
       "lat": 40.7526701,
       "lng": -73.9977586
+    }
+  },
+  {
+    "name": "Nantes",
+    "company": "Avanade",
+    "icon": "AVA.svg",
+    "position": {
+      "lat": 47.26804168,
+      "lng": -1.609261186
     }
   },
   {
