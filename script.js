@@ -65,8 +65,8 @@ function buildContent(property) {
       </div>
       <br />
       <div class="innovationActivity"><b>Innovation Activity:</b> ${property.innovationActivity}</div>
-      <div class="industry"><b>Industry:</b> ${property.industries}</div>
-      <div class="technology"><b>Technology:</b> ${property.technologies}</div>
+      <div class="industry"><b>Industry:</b> ${property.industry}</div>
+      <div class="technology"><b>Technology:</b> ${property.technology}</div>
   </div>
   `;
 
